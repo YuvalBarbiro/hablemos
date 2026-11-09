@@ -3,10 +3,6 @@
 A home-screen web app (PWA) for learning Spanish from English, with optional Hebrew hints.
 No build step and no dependencies: plain HTML, CSS and JavaScript.
 
-The lesson sequence merges *Madrigal's Magic Key to Spanish* (Margarita Madrigal) and
-Language Transfer's *Complete Spanish* (free audio on SoundCloud). All lesson text and
-exercises are original. The book PDF lives in `sources/`, which git ignores, so it never gets published.
-
 ## What's inside
 
 - **33 lessons in 6 units**: concepts, tap-to-hear words and sentences, and a practice session
